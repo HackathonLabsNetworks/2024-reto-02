@@ -1,0 +1,5 @@
+flask
+mariadb
+python-dotenv
+simplejson
+gunicorn
